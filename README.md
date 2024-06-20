@@ -1,1 +1,1 @@
-Dodałem task z zebraniem 8 niebieskich diamentów w celu wytworzenia magicznego miecza przez maga. 6 diamentów jest rozsypana na mapie, żeby zebrać 8 trzeba zrobić task z otwarciem skrzyni, w której między innymi są 4 niebieskie diamenty.
+Dodałem task z zebraniem 8 niebieskich diamentów w celu wytworzenia magicznego miecza przez maga. 6 diamentów jest umieszczona na mapie, żeby zebrać 8 trzeba zrobić task z otwarciem skrzyni, w której między innymi są 4 niebieskie diamenty.
